@@ -1,0 +1,9 @@
+https://github.com/tonynguyen2512/math-utils.git
+
+echo "# math-utils" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tonynguyen2512/math-utils.git
+git push -u origin main
